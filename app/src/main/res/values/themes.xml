@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SecurityGuard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#ff0033</item>
+        <item name="colorPrimaryVariant">#990011</item>
+        <item name="colorOnPrimary">#ffffff</item>
+    </style>
+</resources>
